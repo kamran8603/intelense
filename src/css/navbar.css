@@ -1,0 +1,52 @@
+.navbar{
+    width: 50%;
+    height: 10vh;
+    border: 1px solid #E5E5E4;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    gap: 30px;
+    border-radius: 40px;
+    background-color: #FAFAF8;
+}
+.nav-container{
+    width: 100%;
+    height:14vh;
+ 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo{
+    width: 17%;
+}
+.navigation{
+    display: flex;
+    justify-content: space-evenly;
+    width: 50%;
+}
+Link{
+  
+}
+.navigation,a{
+    text-decoration: none;
+    color: black;
+    font-size: 17px;
+   color: #72736B;
+   font-weight: 450;
+     font-family: "Montserrat", sans-serif;;
+}
+.login{
+    background-color: #C5EC31;
+    height: 45px;
+    width: 12%;
+    border: none;
+    font-size: 17px;
+    border-radius: 20px;
+}
+.arrow{
+  font-size: 25px;
+    background-color: white;
+    border-radius: 50px;
+    margin-left: 20px;
+}
